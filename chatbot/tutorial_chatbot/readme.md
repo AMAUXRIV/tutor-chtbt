@@ -2,7 +2,7 @@
 
 # Tutorial Membuat Chatbot
 
-_Afif A. Iskandar_
+_AmauxReav_
 
 - email: <kismabatari@gmail.com>
 - telegram: [@amauxx](https://t.me/amauxx)
