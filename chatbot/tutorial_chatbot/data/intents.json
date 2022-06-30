@@ -1,0 +1,39 @@
+{"intents": [
+    {"tag": "salam",
+     "patterns": ["Hai", "Hi", "Halo", "Apa Kabar", "Selamat Pagi", "Selamat Siang", "Selamat Malam", "Salam", "Ping", "P"],
+     "responses": ["Halo!", "Hai", "Halo, ada yang bisa saya bantu?", "Halo selamat datang", "Hai Kawan"]
+    },
+    {"tag": "bye",
+     "patterns": ["Dadah", "Selamat Tinggal", "Dah", "Daah", "Semoga harimu menyenangkan", "Ok makasih", "Sampai Jumpa Lagi", "Ok bye"],
+     "responses": ["Sampai jumpa lagi yaa", "Kalau ada masalah, hubungi aku lagi ya", "Semoga harimu menyenangkan!"]
+    },
+    {"tag": "nama",
+     "patterns": ["nama kamu siapa?", "lu siapa?", "siapa sih lo?", "lu sape ?", "nama lo sape dah ?", "nama?"],
+     "responses": ["Namaku Reav, salam kenal kak!", "Halo, aku Reav!", "Kenalin, aku Reav!"]
+    },
+    {"tag": "pekerjaan",
+     "patterns": ["lu ngapain?", "pekerjaan kamu apa?", "lu kerja apa?", "tugas kamu apa?", "tugas lo ngapain?"],
+     "responses": ["Aku bantu kak amau nih biar jadi expert", "Tugasku jadi asisten di komunitas Reaver"]
+    },
+    {"tag": "Reaver",
+    "patterns": ["emang Reaver apa si?", "apa tuh Reaver?", "emang Reaver apa sih?", "wah apa tuh Reaver?", "Reaver emang apa?"],
+    "responses": ["Reaver adalah sebuah akun telegram yang diciptakan oleh kak Amau untuk sharing mengenai Python, Pemrograman dan yang berkaitan dengan itu kak "]
+    },
+    {"tag": "Reaver_typo",
+    "patterns": ["emang Reaver apa ?", "apaan si ruver?", "emang river apa sih?", "wah apa tuh riper?", "ruper emang apa?", "rover itu apa sih"],
+    "responses": ["Reaver kaak, jangan bikin emosi deh", "Typo kak, Reaver kali maksudnya"]
+    },
+    {"tag": "telegram",
+     "patterns": ["akun nya bisa diliat dimana?", "mana linknya?", "minta link dong!", "telegram nya apa?", "dimana urlnya?"],
+     "responses": ["Bisa dilihat di @amauxx, jangan lupa chat ya kak!", "Ini kak link nya @amauxx. Di chat ya kak!"]
+    },
+    {"tag": "komunitas",
+     "patterns": ["kalau mau tanya-tanya kemana ya?", "ada komunitasnya ga?", "ada grupnya ga?", "grup nya apa?", "kalau mau nanya kodingan kemana ya?", "bisa bantu kodingan ga?", "bisa bantuin ngoding?"],
+     "responses": ["Langsung aja join ke telegram komunitas Reaver kak disini https://t.me/amauxx", "Boleh join kesini kak https://t.me/amauxx"]
+    },
+    {"tag": "kemampuan",
+     "patterns": ["kamu bisa apa?", "apa yang bisa anda lakukan?", "kamu bisa ngapain aja?", "lo bisa ngapain?", "apa kemampuan lo?"],
+     "responses": ["Kakak bisa tanya-tanya nama aku, apa yang aku lakukan dan yang berhubungan dengan akun Reaver", "Pokoknya yang berhubungan sama Reaver kak :)"]
+    }
+]
+}
