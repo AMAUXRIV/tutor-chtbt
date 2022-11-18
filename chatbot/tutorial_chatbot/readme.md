@@ -1,4 +1,4 @@
-![alt text](https://github.com/afifai/weekend-project-DLFNLPSeries/blob/main/image/logo.png?raw=true)
+![photo_2022-11-05_06-01-08](https://user-images.githubusercontent.com/97670164/202713801-5ad66957-5ca1-41d6-a8f5-7e69ba6a4287.jpg)
 
 # Tutorial Membuat Chatbot
 
